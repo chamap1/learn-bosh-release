@@ -1,6 +1,6 @@
 ---
 name: learn-bosh
-
+ 
 releases:
 - name: learn-bosh
   version: latest
